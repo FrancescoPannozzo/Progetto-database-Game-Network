@@ -1,0 +1,1 @@
+Progetto per il corso di esame "Base di Dati", corso di laurea in Informatica, Università degli studi di Roma "La Sapienza"
